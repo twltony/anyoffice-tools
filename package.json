@@ -1,0 +1,27 @@
+{
+  "name": "anyofficetools",
+  "version": "0.0.2",
+  "cordova": {
+    "id": "cordova-plugin-anyoffice-tools",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "twltony",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twltony/anyoffice-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twltony/anyoffice-tools/issues"
+  },
+  "homepage": "https://github.com/twltony/anyoffice-tools#readme",
+  "description": ""
+}
